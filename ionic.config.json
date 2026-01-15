@@ -1,0 +1,7 @@
+{
+  "name": "mystudyplanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
